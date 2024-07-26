@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  text-align: center;
+}
+
+.mb-3, .my-4 {
+  margin-bottom: 1rem !important;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
