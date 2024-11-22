@@ -44,7 +44,7 @@ To set up the project locally:
 
    ```bash
    git clone https://github.com/souptiksarkar893/Note-Taking-Application.git
-   cd YOUR_REPO_NAME
+   cd Note-Taking-Application
 
 Install Dependencies
 npm install
