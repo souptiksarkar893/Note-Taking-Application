@@ -62,9 +62,9 @@ Thank you for using the Simple Note Taking App! We hope you find it useful and e
 ### Instructions for Customization
 
 1. **Replace Placeholder Text**:
-   - **GitHub Username**: Replace `souptiksarkar893` with your GitHub username.
-   - **Repository Name**: Replace `Note-Taking-Application` with your repository name.
-   - **Vercel Project URL**: Replace `https://note-taking-app-lilac-six.vercel.app/` with your Vercel deployment URL.
+   - **GitHub Username**: `souptiksarkar893`
+   - **Repository Name**: `Note-Taking-Application` 
+   - **Vercel Project URL**: `https://note-taking-app-lilac-six.vercel.app/` 
    - **Email Address**: souptiksarkar893@gmail.com
 
 2. **Add License Information**:
