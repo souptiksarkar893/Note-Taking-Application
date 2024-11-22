@@ -43,7 +43,7 @@ To set up the project locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/souptiksarkar893/Note-Taking-Application.git
    cd YOUR_REPO_NAME
 
 Install Dependencies
@@ -62,10 +62,10 @@ Thank you for using the Simple Note Taking App! We hope you find it useful and e
 ### Instructions for Customization
 
 1. **Replace Placeholder Text**:
-   - **GitHub Username**: Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-   - **Repository Name**: Replace `YOUR_REPO_NAME` with your repository name.
-   - **Vercel Project URL**: Replace `YOUR_PROJECT_URL` with your Vercel deployment URL.
-   - **Email Address**: Update with your contact email.
+   - **GitHub Username**: Replace `souptiksarkar893` with your GitHub username.
+   - **Repository Name**: Replace `Note-Taking-Application` with your repository name.
+   - **Vercel Project URL**: Replace `https://note-taking-app-lilac-six.vercel.app/` with your Vercel deployment URL.
+   - **Email Address**: souptiksarkar893@gmail.com
 
 2. **Add License Information**:
    - Ensure you have a `LICENSE` file if you mention it.
